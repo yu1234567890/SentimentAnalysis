@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{68C5FD7D-1140-4486-AF14-86A642F0318F}|Default">
+  <MonoDevelop.Ide.ItemProperties.SentimentAnalysis PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SentimentAnalysis/Program.cs">
+    <Files>
+      <File FileName="SentimentAnalysis/Program.cs" Line="22" Column="32" />
+      <File FileName="SentimentAnalysis/SentimentData.cs" />
+      <File FileName="SentimentAnalysis/Translator.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SentimentAnalysis" expanded="True">
+            <Node name="SentimentAnalysis" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
